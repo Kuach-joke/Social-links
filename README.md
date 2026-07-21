@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Coming soon](https://your-solution-url.com)
-- Live Site URL: [](https://jokez.wizzoviz.dev/)
+- Live Site URL: https://jokez.wizzoviz.dev/
 
 ## My process
 
