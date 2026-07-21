@@ -1,0 +1,19 @@
+{
+  "name": "social-links",
+  "version": "1.0.0",
+  "description": "Social links profile card for Joke Wizzo, front-end developer",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": ["social-links", "profile", "portfolio"],
+  "author": "Joke Wizzo",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
