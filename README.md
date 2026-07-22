@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Coming soon](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-N4K_jR_Ztb
 - Live Site URL: https://jokez.wizzoviz.dev/
 
 ## My process
